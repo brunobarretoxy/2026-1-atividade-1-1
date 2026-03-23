@@ -248,10 +248,11 @@ Abra o navegador no sistema hospedeiro e acesse:
 
 ### Parte final: relatório
 1. Criar um arquivo no `relatorio.md`.
-2. Colocar 3 seções principais: introdução, relato das atividades, e considerações finais.
-3. Na introdução, deve ter um contexto da atividade.
-4. No relato das atividades, deve conter os screenshots e o passo a passo das atividade realizadas.
-5. Por fim, em considerações finais, é um espaço para colocar aprendizado, dificuldades e sugestões.
+2. Coloque título e identificação (nome completo) com H1
+3. Colocar 3 seções principais com H2: introdução, relato das atividades, e considerações finais.
+4. Na introdução, deve ter um contexto da atividade.
+5. No relato das atividades, deve conter os screenshots e o passo a passo das atividade realizadas.
+6. Por fim, em considerações finais, é um espaço para colocar aprendizado, dificuldades e sugestões.
 
 **Importante** Documente todo o processo realizado, incluindo:
 - O relatório é texto em primeira pessoa, redigito como redação.
